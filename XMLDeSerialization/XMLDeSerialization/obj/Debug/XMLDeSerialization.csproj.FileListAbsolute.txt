@@ -1,0 +1,11 @@
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\bin\Debug\XMLDeSerialization.exe.config
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\bin\Debug\XMLDeSerialization.exe
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\bin\Debug\XMLDeSerialization.pdb
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\bin\Debug\EmployeeLib.dll
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\bin\Debug\EmployeeLib.pdb
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.AssemblyReference.cache
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.SuggestedBindingRedirects.cache
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.CoreCompileInputs.cache
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.csproj.CopyComplete
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.exe
+D:\07August\Assignment24\XMLDeSerialization\XMLDeSerialization\obj\Debug\XMLDeSerialization.pdb

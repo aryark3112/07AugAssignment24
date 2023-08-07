@@ -1,0 +1,6 @@
+D:\07August\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+D:\07August\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+D:\07August\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+D:\07August\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+D:\07August\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+D:\07August\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

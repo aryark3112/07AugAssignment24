@@ -1,0 +1,11 @@
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe.config
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.exe
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\bin\Debug\XMLSerialization.pdb
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\bin\Debug\EmployeeLib.dll
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\bin\Debug\EmployeeLib.pdb
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.AssemblyReference.cache
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.SuggestedBindingRedirects.cache
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.CoreCompileInputs.cache
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.csproj.CopyComplete
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.exe
+D:\07August\Assignment24\XMLSerialization\XMLSerialization\obj\Debug\XMLSerialization.pdb
